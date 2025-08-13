@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte dos meus estudos iniciais com o framewo
 
 ## 📸 Demonstração
 
-![Screenshot](./src/assets/aboutme-image.jpg)
+![Screenshot](./src/assets/profile2.png)
 
 ## 🧩 Funcionalidades
 
