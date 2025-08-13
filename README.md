@@ -47,7 +47,7 @@ Este projeto foi desenvolvido como parte dos meus estudos iniciais com o framewo
 
 ---
 
-Projeto feito por
+Projeto desenvolvido como exercício de aprendizado, inspirado no curso da OneBitCode.
 
 # React + Vite
 
