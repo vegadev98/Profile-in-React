@@ -1,3 +1,54 @@
+# Profile in React
+
+Este projeto foi desenvolvido como parte dos meus estudos iniciais com o framework React. O objetivo é apresentar um perfil interativo, utilizando boas práticas de componentização, hooks e estilização com CSS Modules.
+
+## 🚀 Tecnologias utilizadas
+
+- **React**: Criação de componentes funcionais e uso de hooks (`useState`)
+- **CSS Modules**: Estilização modular e reaproveitável
+- **JavaScript (ES6+)**
+
+## 📸 Demonstração
+
+![Screenshot](./src/assets/aboutme-image.jpg)
+
+## 🧩 Funcionalidades
+
+- Exibição de foto, nome, bio, telefone e e-mail
+- Botão de seguir com feedback visual
+- Links para redes sociais (GitHub, LinkedIn, Instagram)
+- Layout responsivo e estilizado
+
+## 💻 Como rodar o projeto
+
+1. Clone o repositório:
+   ```
+   git clone https://github.com/vegadev98/Profile-in-React.git
+   ```
+2. Instale as dependências:
+   ```
+   npm install
+   ```
+3. Inicie o servidor de desenvolvimento:
+   ```
+   npm start
+   ```
+
+## 📚 Aprendizados
+
+- Componentização e reutilização de código
+- Gerenciamento de estado com hooks
+- Organização de estilos com CSS Modules
+
+## 📎 Links
+
+- [Meu LinkedIn](https://www.linkedin.com/in/douglas-da-silva-vega)
+- [Meu GitHub](https://github.com/vegadev98)
+
+---
+
+Projeto feito por
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
